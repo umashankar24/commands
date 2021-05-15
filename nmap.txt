@@ -1,1 +1,2 @@
-nmap
+nmap -v domain_name
+    -v : gives more detailed information.
